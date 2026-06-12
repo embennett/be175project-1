@@ -1,3 +1,4 @@
+# first implimentation of the model, did not separte the GFP and mCherry data so the fit was not as good
 import argparse
 from pathlib import Path
 import numpy as np
